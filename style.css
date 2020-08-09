@@ -138,13 +138,14 @@ p{
 .col-5{
     width: 100%;
 }
-}
+
 .title {
     text-align: center;
     margin: 0 auto 80px;
     position: relative;
     line-height: 60px;
     color: #555;
+    
 }
 
 .title::after{
