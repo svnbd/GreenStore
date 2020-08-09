@@ -85,11 +85,11 @@ p{
 }
 .btn:hover
 {
-    background:  #277240;
+    background:  #38a85e;
 }
 
 .header {
-    background: radial-gradient(rgb(193, 204, 189),#c2e0d4 );
+    background: radial-gradient(rgb(255, 255, 255),#ffffff );
 }
 
 .header .row {
