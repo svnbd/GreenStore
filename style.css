@@ -122,11 +122,22 @@ p{
     padding:10px;
     min-width: 200px;
     margin-bottom: 50px;
-    
 }
 
 .col-4{
     width: 100%;
+}
+
+.col-5{
+    flex-basis: 25%;
+    padding:10px;
+    min-width: 200px;
+    margin-bottom: 50px;
+}
+
+.col-5{
+    width: 100%;
+}
 }
 .title {
     text-align: center;
